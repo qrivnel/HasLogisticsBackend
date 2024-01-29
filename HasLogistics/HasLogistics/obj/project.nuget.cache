@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LLpRiG2oNIJppyqzhCtSwBlpB7kKdDbuPFXdttGm8R5+Q+ntNV29KobFWzoEAqEoyo53vdwpAiR1BmXWNDU0Rg==",
+  "success": true,
+  "projectFilePath": "/Users/qrivnel/Projects/HasLogistics/HasLogistics/HasLogistics.csproj",
+  "expectedPackageFiles": [
+    "/Users/qrivnel/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/qrivnel/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/qrivnel/.nuget/packages/npgsql/8.0.1/npgsql.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
